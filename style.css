@@ -6,7 +6,7 @@ body {
     letter-spacing: .5em;
     top: 15%;
     /* default background color of application */
-    background: linear-gradient(to right, rgb(223, 68, 17), rgb(255, 0, 200));}
+    background: linear-gradient(to right, rgb(229, 232, 17), rgb(0, 225, 255));}
 
 .color1, .color2{
     padding: 1px;
