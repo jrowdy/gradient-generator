@@ -1,2 +1,29 @@
-# gradient-generator
+
+# Gradient-Generator
+## About
 ![image](https://user-images.githubusercontent.com/58674083/88442088-26c4f880-cde1-11ea-92bc-b19eb3a51394.png)
+--------------------------
+## Table Of Contents
+1. User Story
+2. Technologies Used
+3. Installation
+4. Usage
+5. Contributors
+6. Contact Info
+----------------------------
+## User Story
+I am a Frontend Developer that seeks to find an application that will allow me to quickly view and save color gradients to create visually appealing websites.
+## Technologies Used
+HTML, CSS, Javascript
+## Installation
+1. Clone this repo from Github.
+2. View and test on your local computer.
+## Usage
+1. When in the application, use the color input squares to select two different colors. Use the dialogue box to change hues and transparency levels. You can use the colors in three different formats based on your needs. After selecting the colors, the code needed to add the gradient to your website will appear.
+## Future Development
+1. Users will be able to use the site as a guest or create an account to save gradients.
+2. Users will be able to change the gradient direction (default direction is to the right).
+## Contributors
+Jasmin Rowdy
+## Contact Info
+jmrowdy20@gmail.com
