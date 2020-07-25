@@ -22,7 +22,8 @@ HTML, CSS, Javascript
 1. When in the application, use the color input squares to select two different colors. Use the dialogue box to change hues and transparency levels. You can use the colors in three different formats based on your needs. After selecting the colors, the code needed to add the gradient to your website will appear.
 ## Future Development
 1. Users will be able to use the site as a guest or create an account to save gradients.
-2. Users will be able to change the gradient direction (default direction is to the right).
+2. Upon saving, a table will form at the bottom of the screen diplaying clickable gradients that will change the background color of the main page for quick view.
+3. Users will be also be able to change the gradient direction (default direction is to the right).
 ## Contributors
 Jasmin Rowdy
 ## Contact Info
