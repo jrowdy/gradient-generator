@@ -2,7 +2,7 @@
 # Gradient-Generator
 ## About
 Gradient Generator is an application that allows developers to view, test and save color gradients for website designing.
-![image](https://user-images.githubusercontent.com/58674083/88463090-30506e00-ce7e-11ea-88b8-6a2e1b15a671.png)
+![image](https://user-images.githubusercontent.com/58674083/88463346-09933700-ce80-11ea-97ae-308663a112a7.png)
 
 ## Table Of Contents
 1. User Story
